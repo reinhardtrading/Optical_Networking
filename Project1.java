@@ -31,7 +31,7 @@ import routing.Restoration;
 import routing.SingleLayerAdaptiveBitRate;
 
 
-public class FirstLessonEx {
+public class Project1 {
 
 	public static void main(String[] args) throws Exception {
 
